@@ -145,7 +145,9 @@ medical-rag-assistant
 │
 ├── data
 │   └── bates.pdf
-│
+├──screenshots
+│    └──compare1.png
+│    └──compare2.png
 ├── requirements.txt
 ├── README.html
 └── .env.example
@@ -207,6 +209,4 @@ Add your API key to the <b>.env</b> file and run the notebook in Google Colab.
 
 <hr>
 
-<p align="center">
-<b>End of Project Documentation</b>
-</p>
+
